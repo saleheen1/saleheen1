@@ -30,8 +30,9 @@ I am currently available for any flutter-related jobs. <br>
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 <h3 align="left">Projects:</h3>
-Some of my recent projects are: Real estate app, Physio therapy app, Multivendor app, Ecommerce app etc. Some screenshots are given below <br
-                                                                                                                                            
-<img src="https://i.postimg.cc/J4rz2dqV/New-Project.png https://i.postimg.cc/BnyZtZG4/rs-w-2046-cg-true.png " border="0">                                                                                                                                          
+Some of my recent projects are: Real estate app, Physio therapy app, Multivendor app, Ecommerce app, Crowdfunding app.. etc. Some screenshots are given below <br
+![Physio therapy app](https://i.postimg.cc/J4rz2dqV/New-Project.png)                   
+![Qixer admin](https://i.postimg.cc/BnyZtZG4/rs-w-2046-cg-true.png)                   
+![Fundorex Crowdfunding](https://i.postimg.cc/yxYXZ2R4/image-1-1.png)                   
 
 
