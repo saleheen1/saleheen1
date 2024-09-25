@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm saleheen</h1>
-<h3 align="center">A passionate flutter developer from Bangladesh.</h3>
-
-- 👨‍💻 See my previuos projects [https://saleheen.godaddysites.com](https://saleheen.godaddysites.com)
-
-- 📫 How to reach me **smsaleheen3@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sm-saleheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm-saleheen" height="30" width="40" /></a>
