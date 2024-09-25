@@ -36,18 +36,18 @@ Some of my recent projects are: Real estate app, Physio therapy app, Multivendor
 
                                                                                                                                                                 
 <p float="left">
-  <img alt=ZaimaLinkedin src="https://i.postimg.cc/JzCzMz6s/image-1.png" width="500" />
+  <img alt=ZaimaLinkedin src="https://i.postimg.cc/JzCzMz6s/image-1.png" width="400" />
   <img alt=ZaimaCertifcate src="https://i.postimg.cc/rwYczygG/1645078995257.jpg" width="500" />
 </p>
 
 <p float="left">
-  <img alt=Qixer src="https://i.postimg.cc/XJJPT999/qixer.png" width="500" />
-  <img alt=qixerAdmin src="https://i.postimg.cc/BnyZtZG4/rs-w-2046-cg-true.png" width="500" />
+  <img alt=Qixer src="https://i.postimg.cc/P5csTZz1/qixer-1.png" width="400" />
+  <img alt=qixerAdmin src="https://i.postimg.cc/63rDrPsh/rs-w-2046-cg-true.png" width="400" />
 </p>
 
 <p float="left">
-  <img alt=Fundorex src="https://i.postimg.cc/yxYXZ2R4/image-1-1.png" width="500" />
-  <img alt=physotherapy src="https://i.postimg.cc/J4rz2dqV/New-Project.png" width="500" />
+  <img alt=Fundorex src="https://i.postimg.cc/qMbWxnFW/image-1-1.png" width="400" />
+  <img alt=physotherapy src="https://i.postimg.cc/J4rz2dqV/New-Project.png" width="400" />
 </p>
 
 
