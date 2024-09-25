@@ -3,9 +3,10 @@
 <h3 align="left">🚀 About Me:</h3>
 
 Hey, it's saleheen. Full-time freelance flutter dev. Top rated in Upwork with 100% job success. <br>
+Before working as a freelancer, did some jobs in my local area. In one of them, I became "Best Employee of the Month (Check the images below) <br>
 Also, has experience in Ui-Ux and has completed over 100+ design-related jobs in Fiverr. <br>
 Favorite state management: Bloc, Getx. <br>
-I am currently available for any flutter-related jobs. <br>
+I am currently available for any flutter-related jobs whether part-time or full-time. <br>
 
 
 
@@ -29,10 +30,25 @@ I am currently available for any flutter-related jobs. <br>
 <a href="mailto:smsaleheen3@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<h3 align="left">Projects:</h3>
-Some of my recent projects are: Real estate app, Physio therapy app, Multivendor app, Ecommerce app, Crowdfunding app.. etc. Some screenshots are given below <br
-![Physio therapy app](https://i.postimg.cc/J4rz2dqV/New-Project.png)                   
-![Qixer admin](https://i.postimg.cc/BnyZtZG4/rs-w-2046-cg-true.png)                   
-![Fundorex Crowdfunding](https://i.postimg.cc/yxYXZ2R4/image-1-1.png)                   
+<h3 align="left">Projects & Certificates:</h3>
+Some of my recent projects are: Real estate app, Physio therapy app, Multivendor app, Ecommerce app, Crowdfunding app.. etc. Some screenshots are given below <br> <br>
+
+
+                                                                                                                                                                
+<p float="left">
+  <img alt=ZaimaLinkedin src="https://i.postimg.cc/JzCzMz6s/image-1.png" width="500" />
+  <img alt=ZaimaCertifcate src="https://i.postimg.cc/rwYczygG/1645078995257.jpg" width="500" />
+</p>
+
+<p float="left">
+  <img alt=Qixer src="https://i.postimg.cc/XJJPT999/qixer.png" width="500" />
+  <img alt=qixerAdmin src="https://i.postimg.cc/BnyZtZG4/rs-w-2046-cg-true.png" width="500" />
+</p>
+
+<p float="left">
+  <img alt=Fundorex src="https://i.postimg.cc/yxYXZ2R4/image-1-1.png" width="500" />
+  <img alt=physotherapy src="https://i.postimg.cc/J4rz2dqV/New-Project.png" width="500" />
+</p>
+
 
 
