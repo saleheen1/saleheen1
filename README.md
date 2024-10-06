@@ -32,7 +32,7 @@ Favorite dependency injection package: Get_it <br>
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /><a/>
 
 <a href="mailto:smsaleheen3@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /> <a/>
+<img src=https://img.shields.io/badge/Email-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" /> <a/>
 
 <h3 align="left">Recent projects & Certificates:</h3>
 Some of my recent projects are: <br> 
