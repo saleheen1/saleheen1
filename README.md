@@ -36,6 +36,7 @@ Favorite dependency injection package: Get_it <br>
 <h3 align="left">Recent projects & Certificates:</h3>
 Some of my recent projects are: <br> 
 Real estate app, Physiotherapy app, Multivendor app, e-commerce app, Crowdfunding app.. etc. <br>
+Please visit my portfolio website to see more. <br>
 Some screenshots are given below: <br> <br>
 
 
