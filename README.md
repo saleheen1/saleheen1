@@ -41,18 +41,18 @@ Some screenshots are given below: <br> <br>
 
                                                                                                                                                                 
 <p float="left">
- <a href="https://i.postimg.cc/JzCzMz6s/image-1.png"> <img alt=ZaimaLinkedin src="https://i.postimg.cc/JzCzMz6s/image-1.png" width="350" /> <a/>
-<a href="https://i.postimg.cc/rwYczygG/1645078995257.jpg">   <img alt=ZaimaCertifcate src="https://i.postimg.cc/rwYczygG/1645078995257.jpg" width="380" /> <a/>
+ <a href="https://i.postimg.cc/JzCzMz6s/image-1.png"> <img alt=ZaimaLinkedin src="https://i.postimg.cc/JzCzMz6s/image-1.png" width="350" /> </a>
+<a href="https://i.postimg.cc/rwYczygG/1645078995257.jpg">   <img alt=ZaimaCertifcate src="https://i.postimg.cc/rwYczygG/1645078995257.jpg" width="380" /> </a>a>
 </p>
 
 <p float="left">
-<a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder-buyer-app/38154133#">  <img alt=Qixer src="https://i.postimg.cc/5tR7GmWL/rs-w-2046-cg-true-3.png" width="380" /> <a/>
-  <a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-seller-app/39013880">  <img alt=qixerAdmin src="https://i.postimg.cc/fydtfMD1/rs-w-2046-cg-true-2.png" width="380" /> <a/>
+<a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder-buyer-app/38154133#">  <img alt=Qixer src="https://i.postimg.cc/5tR7GmWL/rs-w-2046-cg-true-3.png" width="380" /> </a>
+  <a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-seller-app/39013880">  <img alt=qixerAdmin src="https://i.postimg.cc/fydtfMD1/rs-w-2046-cg-true-2.png" width="380" /> </a>
 </p>
 
 <p float="left">
- <a href="https://codecanyon.net/item/crowdfunding-platform-flutter-mobile-app-fundorex/39675422"> <img alt=Fundorex src="https://i.postimg.cc/zf1ry5cV/rs-w-2046-cg-true-1.png" width="380" /> <a/>
-<a href="https://i.postimg.cc/NMFyygW1/image-1-1-1.png">   <img alt=physotherapy src="https://i.postimg.cc/0jByK3Tr/rs-w-2046-cg-true-4.png" width="380" /> <a/>
+ <a href="https://codecanyon.net/item/crowdfunding-platform-flutter-mobile-app-fundorex/39675422"> <img alt=Fundorex src="https://i.postimg.cc/zf1ry5cV/rs-w-2046-cg-true-1.png" width="380" /> </a>
+<a href="https://i.postimg.cc/NMFyygW1/image-1-1-1.png">   <img alt=physotherapy src="https://i.postimg.cc/0jByK3Tr/rs-w-2046-cg-true-4.png" width="380" /> </a>
 </p>
 
 
