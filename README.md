@@ -6,14 +6,15 @@ Hey, it's saleheen. Full-time freelance flutter dev. Top rated in Upwork with 10
 Before working as a freelancer, did some jobs in my local area.<br>
 In one of them, I became "Best Employee of the Month (Check the images below) <br>
 I am currently available for any flutter-related project/jobs whether part-time or full-time. <br>
+Other than app development I can also work on Ui Ux design. Completed countless jobs in Fiverr and Upwork.
+Solving problems in Leetcode is one of my addictions.
 
 
 
 <h3 align="left">🛠 Skills:</h3>
-Flutter, Dart, Firebase, Supabase, SQL, API integration, Git <br>
-Favorite state management: Bloc, Getx. <br>
+Flutter, Dart, Python, Firebase, Supabase, Appwrite, SQL, API integration, Git, Figma etc.<br>
+Favorite state management: Bloc, Getx, Riverpod <br>
 Favorite dependency injection package: Get_it <br>
-
 
 
 <h3 align="left">Portfolio:</h3>
