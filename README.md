@@ -8,19 +8,28 @@ In one of them, I became "Best Employee of the Month (Check the images below) <b
 I am currently available for any flutter-related project/jobs whether part-time or full-time. <br>
 Other than app development I can also work on Ui Ux design. Completed countless jobs in Fiverr and Upwork. <br>
 Solving problems in Leetcode is one of my addictions.
+I teach Flutter, Data structures, and Algorithms on my YouTube channel and also write articles on Medium.
+I also have made a Flutter course at Udemy.
 
 
 
 <h3 align="left">🛠 Skills:</h3>
-Flutter, Dart, Python, Firebase, Supabase, Appwrite, SQL, API integration, Git, Figma etc.<br>
+Flutter, Dart, Python, Firebase, Supabase, Appwrite, SQL, API integration, Git, Figma,
+Data structures, Algorithms, Leetcoding, etc.<br>
 Favorite state management: Bloc, Getx, Riverpod <br>
-Favorite dependency injection package: Get_it <br>
 
 
 <h3 align="left">Portfolio:</h3>
 <a href="https://saleheen.godaddysites.com/" target="_blank">
 <img src=https://img.shields.io/badge/Visit-Portfolio-%2300acee.svg?color=FCCD2A&style=for-the-badge&logo=portfolio&logoColor=white alt=Portfolio style="margin-bottom: 5px;" /><a/>
 
+<h3 align="left">Youtube channel:</h3>
+<a href="https://www.youtube.com/@saleheen1" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%2300acee.svg?color=EA4335&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /><a/>
+
+<h3 align="left">Articles:</h3>
+<a href="https://medium.com/@smsaleheen3" target="_blank">
+<img src=https://img.shields.io/badge/medium-%2300acee.svg?color=3D3D3D&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /><a/>
   
 
 <h3 align="left">Connect with me:</h3>
