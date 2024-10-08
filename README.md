@@ -24,6 +24,11 @@ Favorite state management: Bloc, Getx, Riverpod <br>
 <img src=https://img.shields.io/badge/Visit-Portfolio-%2300acee.svg?color=FCCD2A&style=for-the-badge&logo=portfolio&logoColor=white alt=Portfolio style="margin-bottom: 5px;" /><a/>
 
 
+<h3 align="left">Leetcode:</h3>
+<a href="https://leetcode.com/u/saleheen1" target="_blank">
+<img src=https://img.shields.io/badge/Leetcode-profile-%2300acee.svg?color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" /><a/>
+  
+
 <h3 align="left">Youtube channel:</h3>
 <a href="https://www.youtube.com/@saleheen1" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%2300acee.svg?color=EA4335&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /><a/>
@@ -32,10 +37,6 @@ Favorite state management: Bloc, Getx, Riverpod <br>
 <a href="https://medium.com/@smsaleheen3" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2300acee.svg?color=3D3D3D&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /><a/>
 
-<h3 align="left">Leetcode:</h3>
-<a href="https://leetcode.com/u/saleheen1" target="_blank">
-<img src=https://img.shields.io/badge/Leetcode-profile-%2300acee.svg?color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" /><a/>
-  
 
 <h3 align="left">Connect with me:</h3>
 
