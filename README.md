@@ -7,8 +7,7 @@ Before working as a freelancer, did some jobs in my local area.<br>
 In one of them, I became "Best Employee of the Month (Check the images below) <br>
 I am currently available for any flutter-related project/jobs whether part-time or full-time. <br>
 Other than app development I can also work on Ui Ux design. Completed countless jobs in Fiverr and Upwork. <br>
-Solving problems in Leetcode is one of my addictions also write articles on Medium.
-I also have made a Flutter course at Udemy.
+Solving problems in Leetcode is one of my addictions. I also write articles on Medium and also made a full Flutter course at Udemy.
 
 
 
