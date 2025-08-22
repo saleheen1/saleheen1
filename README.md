@@ -2,8 +2,8 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-Hey, it's saleheen. Full-time freelance flutter dev. Top rated in Upwork with 100% job success. <br>
-Before working as a freelancer, did some jobs in my local area.<br>
+Hey, it's saleheen. Full-time freelance flutter dev. Top rated in Upwork, Level 2 in Fiverr. <br>
+Before working as a freelancer, did some jobs in local companies (Full time).<br>
 In one of them, I became "Best Employee of the Month (Check the images below) <br>
 I am currently available for any flutter-related project/jobs whether part-time or full-time. <br>
 Other than app development have strong expertise on Ui Ux design. Completed countless jobs in Fiverr and Upwork. <br>
