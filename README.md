@@ -31,7 +31,7 @@ Favorite state management: Bloc, Getx, Riverpod <br>
   
 
 <h3 align="left">Youtube channel:</h3>
-<a href="https://www.youtube.com/@saleheen1" target="_blank">
+<a href="https://www.youtube.com/channel/UC3FjGBFJM9aUcoQezRBnV3Q" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%2300acee.svg?color=EA4335&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /><a/>
 
 <h3 align="left">Articles:</h3>
